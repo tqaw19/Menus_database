@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menus_database</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="olvidaste_la_contrase_a">olvidaste la contraseña ?</string>
+    <string name="registrarse">REGISTRARSE</string>
+</resources>
